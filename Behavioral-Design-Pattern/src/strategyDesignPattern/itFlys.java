@@ -1,4 +1,4 @@
-package strategy;
+package strategyDesignPattern;
 
 class itFlys implements Flys {
     public String fly() {

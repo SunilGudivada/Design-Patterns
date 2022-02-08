@@ -1,4 +1,4 @@
-package strategy;
+package strategyDesignPattern;
 
 class cantFly implements Flys {
     public String fly() {
